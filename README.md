@@ -1,6 +1,6 @@
 こちらのファイルはPhaser.jsを用いたJavaScriptのゲームです。
 
-![唐突な犬](https://github.com/ktakahashigithub/whatgames/blob/images/dog_akitainu.png)
+![Phaser.jsのイメージ](https://github.com/ktakahashigithub/whatgames/blob/images/top2.png)
 
 part10はPhaserのチュートリアルからダウンロードしてきました。
 
