@@ -2,6 +2,14 @@
 
 ![Phaser.jsのイメージ](https://github.com/ktakahashigithub/whatgames/blob/images/top2.png)
 
+node.jsを使った5秒でできるローカルサーバーの立て方
+
+$ npm install -g serve
+
+ルートディレクトリに移動して
+
+$ serve
+
 part10はPhaserのチュートリアルからダウンロードしてきました。
 
 URL:https://phaser.io/
